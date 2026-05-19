@@ -20,6 +20,7 @@ Raw PDFs, arXiv source packages, `.tex`, `.bbl`, `.eprint`, private blind-evalua
 
 - `data/current_coverage_graph_v0/`: redacted graph tables and validation summaries.
 - `EXPERIMENTS.md`: plain-language map of the four experiment directories and how they relate.
+- `EDGE_CONSTRUCTION.md`: explanation of strict, candidate-context, citation, and adaptive edge layers.
 - `experiments/current_coverage_v0_test_framework/`: frozen protocol, condition definitions, role manifests, and blind-evaluation rules.
 - `experiments/current_coverage_v0_edge_dependency_assay/`: nodes-only versus edge-conditioned assay, including run outputs and blind evaluation.
 - `experiments/current_coverage_v0_adaptive_g6_assay/`: adaptive candidate-to-internal three-round assay.

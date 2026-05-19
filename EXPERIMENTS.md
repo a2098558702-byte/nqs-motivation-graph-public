@@ -2,6 +2,8 @@
 
 This repository contains one frozen test framework and three concrete experiment runs. They should be read in this order.
 
+For the edge-layer definitions behind G1-G6, see `EDGE_CONSTRUCTION.md`.
+
 ## 1. Test Framework
 
 Path: `experiments/current_coverage_v0_test_framework/`
