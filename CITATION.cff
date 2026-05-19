@@ -5,7 +5,7 @@ authors:
   - name: "Huang BZ"
 version: "0.1.0"
 date-released: "2026-05-19"
-repository-code: "https://github.com/<your-github-username>/<your-repo-name>"
+repository-code: "https://github.com/a2098558702-byte/nqs-motivation-graph-public"
 abstract: "A redacted public artifact for studying how external literature-graph structure affects LLM-generated research trajectories in neural quantum states."
 keywords:
   - neural quantum states
