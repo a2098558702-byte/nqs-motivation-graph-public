@@ -19,6 +19,8 @@ Raw PDFs, arXiv source packages, `.tex`, `.bbl`, `.eprint`, private blind-evalua
 ## Repository Layout
 
 - `data/current_coverage_graph_v0/`: redacted graph tables and validation summaries.
+- `EXPERIMENTS.md`: plain-language map of the four experiment directories and how they relate.
+- `experiments/current_coverage_v0_test_framework/`: frozen protocol, condition definitions, role manifests, and blind-evaluation rules.
 - `experiments/current_coverage_v0_edge_dependency_assay/`: nodes-only versus edge-conditioned assay, including run outputs and blind evaluation.
 - `experiments/current_coverage_v0_adaptive_g6_assay/`: adaptive candidate-to-internal three-round assay.
 - `experiments/current_coverage_v0_aligned_g3_g4_g6_comparison/`: aligned G3/G4/G6 comparison with equalized idea counts and blind evaluation.
@@ -27,6 +29,8 @@ Raw PDFs, arXiv source packages, `.tex`, `.bbl`, `.eprint`, private blind-evalua
 - `docs/PROGRESS_LOG.md`: chronological project log.
 
 ## Main Results In This Snapshot
+
+0. The test framework freezes the current 60-paper graph experiment protocol: no-search sealed generation, anonymous blind evaluation, condition manifests, and reproducible mechanical audit rules.
 
 1. The edge-dependency assay made `nodes_only` a low-scoring but honest baseline on relation-path metrics. The strongest edge-dependent trajectories were G4 (`strict_plus_clean_candidate_context`) and G3 (`clean_candidate_context`), while G5 (`paper_citation_only`) was mechanically clean but semantically weaker.
 
