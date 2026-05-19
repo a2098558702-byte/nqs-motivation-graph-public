@@ -1,0 +1,7 @@
+source_wave,branch_label,papers,nodes,strict_edges,candidate_edges
+frustrated_spin_pilot_wave_v0,frustrated_spin,6,40,47,3
+optimization_pilot_wave_v0,optimization_scaling,6,51,64,6
+architecture_pilot_wave_v0,architecture,6,60,75,8
+high_priority_mixed_coverage_wave_v0,high_priority_mixed,12,94,82,15
+chemistry_sampling_symmetry_wave_v0,chemistry_sampling_symmetry,14,147,140,33
+dynamics_tomography_wave_v0,dynamics_tomography_open_systems,16,150,186,12

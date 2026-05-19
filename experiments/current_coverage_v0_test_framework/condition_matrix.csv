@@ -1,0 +1,6 @@
+condition_label,condition_name,role,edge_file,visible_nodes,visible_edges,cutoff
+G1,nodes_only,Node-local semantic synthesis baseline.,current_coverage_graph_v0/graph_variants/empty_edges_for_nodes_only.csv,418,0,2023
+G2,strict_paper_internal,Paper-local argument structure and within-paper evidence constraints.,current_coverage_graph_v0/graph_variants/paper_internal_edges_only.csv,418,459,2023
+G3,clean_candidate_context,Unreviewed but endpoint-clean cross-paper development context only.,current_coverage_graph_v0/graph_variants/candidate_context_edges_clean.csv,418,26,2023
+G4,strict_plus_clean_candidate_context,Paper-local strict evidence plus endpoint-clean candidate development context.,current_coverage_graph_v0/graph_variants/paper_internal_plus_clean_candidate_context_edges.csv,418,485,2023
+G5,paper_citation_only,Paper-to-paper reference-list citation graph only.,current_coverage_graph_v0/graph_variants/paper_citation_edges_only.csv,418,172,2023

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite it."
+title: "NQS Motivation Graph Public Artifact"
+authors:
+  - name: "Huang BZ"
+version: "0.1.0"
+date-released: "2026-05-19"
+repository-code: "https://github.com/<your-github-username>/<your-repo-name>"
+abstract: "A redacted public artifact for studying how external literature-graph structure affects LLM-generated research trajectories in neural quantum states."
+keywords:
+  - neural quantum states
+  - literature graph
+  - research agents
+  - external knowledge structure
+  - blind evaluation

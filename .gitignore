@@ -1,0 +1,25 @@
+.DS_Store
+*.log
+*.tmp
+*.cache
+
+# Raw source artifacts must not be committed.
+*.pdf
+*.eprint
+*.zip
+*.tar
+*.tgz
+*.gz
+*.tex
+*.bbl
+
+# Private blind-evaluation keys and local caches.
+private/
+**/private/
+condition_key_private.csv
+blind_condition_key_private.csv
+anonymous_case_mapping_private.csv
+round0_candidate_link_key_private.csv
+unsealed_case_condition_index.csv
+citation_reference_backfill_v0/
+extraction_waves/*/text/

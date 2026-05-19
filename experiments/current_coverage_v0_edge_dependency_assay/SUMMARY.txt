@@ -1,0 +1,6 @@
+visible_items=183
+update_a_items=65
+update_b_items=59
+selected_item_kind_counts=paper:48; benchmark:45; limitation:32; method:25; future_work:12; result_claim:10; problem:6; regime:2; design_principle:1; evaluation:1; interpretation:1
+units=5
+sealed_root=trajectory_experiments/sealed_trial_v1

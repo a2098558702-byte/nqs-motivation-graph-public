@@ -1,0 +1,6 @@
+anonymous_case_id,parsed_link_steps,valid_link_steps,invalid_link_steps,missing_link_ids,endpoint_mismatches,bad_traversal_values,path_continuity_breaks,future_round_link_violations,insufficient_link_support_mentions,node_local_fallback_mentions
+case_001,0,0,0,0,0,0,0,0,7,4
+case_002,14,13,1,0,1,0,3,0,0,0
+case_003,11,11,0,0,0,0,7,0,0,0
+case_004,6,6,0,0,0,0,0,0,2,3
+case_005,13,13,0,0,0,0,5,0,0,0

@@ -1,0 +1,10 @@
+anonymous_case_id,round,parsed_link_steps,valid_link_steps,invalid_link_steps,missing_link_ids,endpoint_mismatches,path_continuity_breaks
+case_001,round0,1,1,0,0,0,0
+case_001,round1,2,2,0,0,0,1
+case_001,round2,4,4,0,0,0,3
+case_002,round0,9,1,8,8,0,6
+case_002,round1,0,0,0,0,0,0
+case_002,round2,8,5,3,0,3,7
+case_003,round0,3,3,0,0,0,0
+case_003,round1,7,7,0,0,0,0
+case_003,round2,10,10,0,0,0,0

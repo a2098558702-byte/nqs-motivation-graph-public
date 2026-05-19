@@ -1,0 +1,5 @@
+link_id,from_item_id,to_item_id,paper_id,year,evidence_location,evidence
+B0001,CSSA145.problem.peaked_hamiltonian,CSSA170.problem.scalability_barriers,NQSC170,2025,text/2506.23809v1/sec/intro.tex:6,[redacted_for_public_release]
+B0002,CSSA145.method.gpu_compression,CSSA170.method.cache_optimization,NQSC170,2025,text/2506.23809v1/sec/innovation.tex:220-227,[redacted_for_public_release]
+B0003,CSSA145.method.local_energy_surrogate,CSSA170.method.energy_parallelism,NQSC170,2025,text/2506.23809v1/sec/innovation.tex:138-146,[redacted_for_public_release]
+B0004,CSSA145.method.sampling_without_replacement,CSSA170.method.sampling_parallelism,NQSC170,2025,text/2506.23809v1/sec/innovation.tex:5-16,[redacted_for_public_release]

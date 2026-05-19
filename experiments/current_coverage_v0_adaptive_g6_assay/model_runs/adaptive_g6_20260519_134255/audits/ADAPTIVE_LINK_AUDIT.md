@@ -1,0 +1,7 @@
+# Adaptive G6 Link Audit
+
+| round | parsed_link_steps | valid_link_steps | invalid_link_steps | endpoint_mismatches | path_continuity_breaks |
+|---|---:|---:|---:|---:|---:|
+| round0 | 3 | 3 | 0 | 0 | 0 |
+| round1 | 7 | 7 | 0 | 0 | 0 |
+| round2 | 10 | 10 | 0 | 0 | 0 |

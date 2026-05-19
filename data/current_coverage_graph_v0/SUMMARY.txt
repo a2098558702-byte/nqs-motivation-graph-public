@@ -1,0 +1,14 @@
+papers: 60
+nodes: 542
+strict_edges: 594
+candidate_edges: 77
+paper_citation_edges: 261
+paper_citation_sources_with_reference_files: 60
+candidate_context_edges_endpoint_resolved: 61
+candidate_context_edges_clean: 44
+candidate_review_backlog: 33
+duplicate_node_ids: 0
+strict_endpoint_errors: 0
+strict_bad_flags: 0
+candidate_endpoint_warnings: 16
+candidate_bad_flags: 17

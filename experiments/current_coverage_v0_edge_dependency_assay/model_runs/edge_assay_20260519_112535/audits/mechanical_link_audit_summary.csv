@@ -1,0 +1,6 @@
+unit_id,trajectory_file,parsed_link_steps,valid_link_steps,invalid_link_steps,missing_link_ids,endpoint_mismatches,bad_traversal_values,path_continuity_breaks,unknown_prefix_link_ids,future_round_link_violations,insufficient_link_support_mentions,node_local_fallback_mentions
+unit_118,experiments/current_coverage_v0_edge_dependency_assay/model_runs/edge_assay_20260519_112535/rounds/unit_118_trajectory.md,0,0,0,0,0,0,0,0,0,7,4
+unit_156,experiments/current_coverage_v0_edge_dependency_assay/model_runs/edge_assay_20260519_112535/rounds/unit_156_trajectory.md,14,13,1,0,1,0,3,0,0,0,0
+unit_432,experiments/current_coverage_v0_edge_dependency_assay/model_runs/edge_assay_20260519_112535/rounds/unit_432_trajectory.md,11,11,0,0,0,0,7,0,0,0,0
+unit_608,experiments/current_coverage_v0_edge_dependency_assay/model_runs/edge_assay_20260519_112535/rounds/unit_608_trajectory.md,6,6,0,0,0,0,0,0,0,2,3
+unit_795,experiments/current_coverage_v0_edge_dependency_assay/model_runs/edge_assay_20260519_112535/rounds/unit_795_trajectory.md,13,13,0,0,0,0,5,0,0,0,0

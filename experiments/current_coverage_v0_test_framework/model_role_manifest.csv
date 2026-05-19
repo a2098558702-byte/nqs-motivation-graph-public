@@ -1,0 +1,3 @@
+role,model,reasoning_effort,allowed_inputs,output_location,notes
+generator,gpt-5.2,low,"one sealed unit directory, round-gated",durable model-run rounds directory,"Generator must not search, browse, list directories, inspect keys, or infer hidden labels."
+blind_evaluator,gpt-5.5,xhigh,anonymous blind evaluation packet and rubric only,durable model-run evaluations directory,Evaluator must not open condition keys. The controller/main agent must not score trajectories.
